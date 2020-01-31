@@ -9,6 +9,8 @@ as is legal in the EU, don't look if it would taint you.
 Requires libusb-1.0. Takes a PNG as an input, preferably two-color black-white or
 grayscale so it looks like what you'll get. 128 pixels high and up to 592 wide.
 
+image::sample.jpg[Sample print]
+
 What
 ----
 
